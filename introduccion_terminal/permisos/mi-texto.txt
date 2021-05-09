@@ -1,0 +1,3 @@
+Hola este es un test de como usar el cat para editar archivos con un prompt
+
+Esta bastante util a decir verdad porque pense que esto no se podria hacer sin usar opciones como nano.

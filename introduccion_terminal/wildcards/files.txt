@@ -1,0 +1,9 @@
+file.php
+files.txt
+index.html
+index.php
+index.txt
+php.txt
+text.html
+text.php
+text.txt
